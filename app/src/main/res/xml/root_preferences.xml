@@ -1,0 +1,71 @@
+<!-- Preferences oppdateres automatisk takket vaere
+    app:useSimpleSummaryProvider="true".
+    Det gjoer det veldig enkelt aa lagre key/value pairs etter brukerinput.
+    Kan saa hentes ut paa normalt vis fra sharedPreferences senere.-->
+
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    TODO: Rekker vi aa faa implementert denne?
+    <PreferenceCategory app:title="@string/InstTemperatur">
+    EditTextPreference er pop-up tekstboks, men var tenkt slider/liste.
+        <EditTextPreference
+            app:key="PreferredTemperatur"
+            app:title="@string/instForetrukketTemp"
+            app:useSimpleSummaryProvider="true" />
+
+        <SeekBarPreference
+        app:defaultValue="37"
+        app:key="PreferredTemperatur"
+        app:title="@string/instForetrukketTemp"/>
+    </PreferenceCategory>
+-->
+
+
+    <!-- Rakk ikke implementere lokasjonsdata-setting. -->
+    <!--
+    <PreferenceCategory app:title="@string/InstLokasjonsData">
+    !-->
+        <!-- TODO: denne gjoer ingenting foreloepig. SwitchPreference er av/paa-knapp.
+        <SwitchPreferenceCompat
+            app:key="brukLokasjonsData"
+            app:title="@string/brukLokasjonsData"
+            app:summaryOff=""
+            app:summaryOn=""/>
+
+        <com.example.team29v2.ui.YesNo
+            app:title="Tillat bruk av lokasjonsdata"
+            app:persistent="true"
+            />
+
+    </PreferenceCategory>
+    -->
+    <!--
+    <PreferenceCategory app:title="@string/InstDataAlternativer">
+    -->
+        <!-- SwitchPreference er av/paa-knapp. -->
+        <!-- TODO: maa implementeres -->
+        <!-- <SwitchPreferenceCompat
+            app:key="mobildata"
+            app:title="Tillat bruk av mobildata" />
+            -->
+
+        <!-- ListPreference er pop-up liste med x valg. -->
+        <!-- TODO: ikke ferdig
+        <ListPreference
+            app:defaultValue="reply"
+            app:entries="@array/reply_entries"
+            app:entryValues="@array/reply_values"
+            app:key="oppdateringsFrekvens"
+            app:title="Oppdateringsfrekvens"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+            -->
+
+    <PreferenceCategory app:title="Favorittliste">
+    <com.example.team29v2.ui.NullstillFavorittYesNo
+        app:title="Nullstill favorittlisten"
+        app:persistent="true"
+        />
+    </PreferenceCategory>
+</PreferenceScreen>

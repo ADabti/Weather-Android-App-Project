@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/frameLayout2" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <include
+        android:id="@+id/detaljerTomtView"
+        android:layout_width="fill_parent"
+        layout="@layout/fragment_detaljer_tom"
+        android:layout_height="fill_parent" />
+
+    <include
+        android:id="@+id/detaljerHovedView"
+        layout="@layout/fragment_detaljer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+</FrameLayout>

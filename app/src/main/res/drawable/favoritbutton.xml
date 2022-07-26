@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable = "@drawable/ic_baseline_favorite_24"
+        android:state_checked="true"/>
+    <item android:drawable="@drawable/ic_baseline_favorite_border_24"
+        android:state_checked="false"/>
+</selector>

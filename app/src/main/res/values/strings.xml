@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">team29v2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!--    <string name="map_key" translatable="false">AIzaSyC6w3l9Xm-abVqhvoLM7bKlHVwOrQMAtZk</string>-->
+    <!-- Bunnmenybar. -->
+    <string name="title_home">Favorittliste</string>
+    <string name="title_dashboard">Badested</string>
+    <string name="title_notifications">Kart</string>
+
+    <!-- Innstillingsvindu. -->
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <!-- Instillinger -->
+    <string name="innstillinger_header">Innstillinger</string>
+    <string name="InstTemperatur">Temperaturvalg</string>
+    <string name="instForetrukketTemp">Foretrukket temperatur</string>
+    <string name="InstDataAlternativer">Datatrafikk</string>
+    <string name="InstLokasjonsData">Lokasjon</string>
+    <string name="brukLokasjonsData">Bruk lokasjonsdata på kart</string>
+    <string name="fjerneFavorittlisteYesNoPopupBeskrivelse">Dette fjerner alle badestedene fra favorittlisten.</string>
+    <string name="fjerneFavorittlisteYesNoPopupOverskrift">Nullstille favoritter?</string>
+    <string name="fjerneFavorittlisteYesNoPopupJaSvar">Nullstill</string>
+    <string name="fjerneFavorittlisteFullfoertToast">Favorittlisten er nullstilt!</string>
+    <string name="fjernetLokasjonsDataToast">Lokasjonsdata fjernet!</string>
+    <string name="fjerneLokasjonsDataYesNoOverskrift">Nullstille lokasjonsdata?</string>
+    <string name="fjerneLokasjonsDataYesNoBeskrivelse">Dette vil fjerne din nåværende posisjon fra kartet.</string>
+
+    <!-- Dialogboks-knapperesponses, brukt i innstillinger -->
+    <string name="Avbryt">Avbryt</string>
+    <string name="Nullstill">Nullstill</string>
+
+    <!-- Detaljert tilbakemelding ved manglende data paa views -->
+    <string name="favorittliste_tom_bakgrunnsbeskjed">Favorittlisten er tom. Naviger til kartet for å oppdage badesteder og lagre de som dine favoritter!</string>
+    <string name="detaljer_tom_bakgrunnsbeskjed">Badested er ikke valgt. Naviger til kartet for å oppdage et badested og se detaljert informasjon om temperatur, med mer!</string>
+
+    <!-- Kart-popups. Forsoekt bruk av " " for aa ha riktig spacing ved mellomrom. -->
+    <string name="kartPopupCardBadested">" Badested: "</string>
+    <string name="kartPopupCardVaerNeste6t">"Vær neste 6 timer: "</string>
+    <string name="kartPopupCardLuftTemp">"Lufttemperatur: "</string>
+    <string name="kartPopupCardVindhastighet">"Vindhastighet: "</string>
+    <string name="kartToastLagtTilFavoritt">" er lagt til favorittlisten!"</string>
+    <string name="kartToastFjernetFraFavoritt">" er fjernet fra favorittlisten!"</string>
+    <string name="kartPopupCardVindHastEnhet">" m/s"</string>
+    <string name="kartPopupCardTemperaturEnhet">°C</string>
+
+    <!-- Detaljer. Forsoekt bruk av " " for aa ha riktig spacing ved mellomrom.
+    Et par repeats, men det kan fjernes. -->
+    <string name="detaljerLuftTemperatur">Lufttemperatur</string>
+    <string name="detaljerVanntemperatur">Vanntemperatur</string>
+    <string name="detaljerVaervarsel">"Værvarsel: "</string>
+    <string name="detaljerVindhastighet">"Vindhastighet: "</string>
+    <string name="detaljerVindHastighetEnhet">" m/s"</string>
+    <string name="DetaljerLuftTemperatur">Lufttemperatur</string>
+    <string name="detaljerLuftTemperaturEnhet">°C</string>
+    <string name="detaljertodoremove">Lufttemperatur</string>
+    <string name="settingsToastApiRefresh">Temperaturer oppdateres neste gang kartet vises.</string>
+    <string name="settingsToastOmAppen">Utviklet av Team29 på UiO!</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.203" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.203" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/layout/cardviewet.xml" value="0.16304347826086957" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/layout/favorittcard.xml" value="0.16304347826086957" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/layout/fragment_detaljer.xml" value="0.12158054711246201" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/layout/fragment_detaljer_tom.xml" value="0.12760416666666666" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/layout/fragment_favoritter.xml" value="0.1" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/layout/fragment_favoritter_tom.xml" value="0.12760416666666666" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/layout/om_oss.xml" value="0.264" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/layout/root_preferences.xml" value="0.9274193548387096" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/layout/settings_activity.xml" value="0.1" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/layout/splash_screen.xml" value="0.1" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/menu/toppmeny.xml" value="0.19722222222222222" />
+        <entry key="..\:/IN2000/team29v2/app/src/main/res/xml/root_preferences.xml" value="0.128" />
+        <entry key="..\:/Users/PPC/AndroidStudioProjects/team299/app/src/main/res/layout/favorittcard.xml" value="0.33" />
+        <entry key="..\:/Users/PPC/AndroidStudioProjects/team29v2-Added/team29v2-AddedMapFrag/app/src/main/res/layout/cardviewet.xml" value="0.25" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/drawable/bg_round.xml" value="0.1925" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/activity_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/activity_maps.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/cardviewet.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/favorittcard.xml" value="0.33" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/fragment_dashboard.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/fragment_detaljer.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/fragment_detaljer_framelayout.xml" value="0.1" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/fragment_favoritter.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/fragment_favoritter_framelayout.xml" value="0.1" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/fragment_home.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/fragment_kart.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/fragment_notifications.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/om_oss.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/layout/settings_activity.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/menu/toppmeny.xml" value="0.23072916666666668" />
+        <entry key="..\:/Users/jenaa/AndroidStudioProjects/team29v2-may14b/app/src/main/res/xml/root_preferences.xml" value="0.21354166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
